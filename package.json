@@ -1,0 +1,27 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "Hunter Web Dev FA22 - Assignment 3",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSCI-39548-FA22/assignment3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSCI-39548-FA22/assignment3/issues"
+  },
+  "homepage": "https://github.com/CSCI-39548-FA22/assignment3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.10",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
