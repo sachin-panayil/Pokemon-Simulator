@@ -1,4 +1,4 @@
-User can create a team of pokemon with the use of the Pokedex API
+***User can create a team of pokemon with the use of the Pokedex API***
 
 /pokemon/:id
 - I see page rendered with the Pokemon's name, id, and a sprite image
